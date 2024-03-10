@@ -1,3 +1,2 @@
-def main():
-    def Encode(self ,str):
-        
+a = "Python is cool"
+print(a[7:])
